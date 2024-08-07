@@ -97,4 +97,3 @@ INNER JOIN skills_dim ON skills_dim.skill_id = skills_required.skill_id
 ORDER BY
     skill_count DESC
 LIMIT 10;
-12345
